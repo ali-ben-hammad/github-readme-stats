@@ -5,6 +5,12 @@
       "maxDuration": 10
     }
   },
+   "redirects": [
+    {
+      "source": "/",
+      "destination": "https://github.com/ali-ben-hammad/github-readme-stats"
+    }
+  ]
   "headers": [
     {
       "source": "/api/(.*)",
